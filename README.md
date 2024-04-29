@@ -34,9 +34,10 @@
 
 ### Output:
 
+![image](https://github.com/Nagasaichowdary/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/155174528/a6535c8c-780a-4de5-a803-d1f51ad48f0f)
 
-### Name:
-### Register Number:
+### Name:P.Aditya naga Sai
+### Register Number:212223110036
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
